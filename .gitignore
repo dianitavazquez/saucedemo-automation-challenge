@@ -1,0 +1,21 @@
+# Dependencies
+/node_modules
+/vendor
+/bin
+/obj
+
+# Generated files
+/build
+/dist
+/cache
+*.log
+
+# IDE & OS files
+.DS_Store
+.idea/
+.vscode/
+npm-debug.log*
+
+# Sensitive confi data
+.env
+config.local.php

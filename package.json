@@ -1,0 +1,15 @@
+{
+  "name": "saucedemo-automation-challenge",
+  "version": "1.0.0",
+  "description": "This project demonstrates the design and implementation of automated UI tests using Cypress + JavaScript, following the Page Object Model (POM) to ensure maintainability, scalability, and readability. The tests cover a core e-commerce user flow on the SauceDemo application, including authentication, cart management, and checkout initiation.",
+  "main": "cypress.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^15.8.1"
+  }
+}
